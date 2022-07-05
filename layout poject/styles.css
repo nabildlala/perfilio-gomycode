@@ -1,0 +1,81 @@
+.topnav a{
+        display: inline;
+        text-align:center;
+        color: #f2f2f2;
+        float: left;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+      } 
+      
+      .topnav a:hover {
+        background-color: rgb(214, 89, 89);
+        color: black;
+      }
+        .topnav a.active {
+          background-color: #04AA6D;
+          color: white;
+        }
+
+body{
+  font-family: Helvetica neue, roboto;
+  margin: 0;
+  padding: 5px;
+  background-color: lightgray;
+    }
+ h4{
+  font-family: verdana;
+  font-size: 20px;
+  color: rgb(51, 34, 239);
+   }
+
+h5{
+  font-family: verdana;
+  font-size: 20px;
+  color:aqua;
+  }
+h3 {
+color:rgb(255, 255, 255);
+   }
+ p{
+  font-family: verdana;
+  font-size: 20px;
+  color: black;
+  margin: 4px;
+}
+
+.all-browsers > h1, .browser {
+  margin: 10px;
+  padding: 5px;
+}
+
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+}
+.about
+{
+  border: 5px groove rgb(80, 50, 2);
+  background-color: darkgoldenrod;
+}
+.work
+{
+  border: 5px groove rgb(80, 50, 2);
+  background-color: darkgoldenrod;
+
+}
+.contact
+{
+  border: 5px groove rgb(80, 50, 2);
+  background-color: darkgoldenrod;
+
+}
+.resume
+{
+  background-color: darkgoldenrod;
+
+  border: 5px groove rgb(80, 50, 2);
+}
